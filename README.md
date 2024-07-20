@@ -12,7 +12,7 @@ https://github.com/AnirudhaGitHub/Tenzies-Royale/assets/167628180/12096a36-988c-
 
 ## DAPP Deployment Link
 
-https://tenzies-royale.vercel.app/
+https://tenzies-royale-dchain.vercel.app/
 
 ## Tech Stack used
 
